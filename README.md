@@ -1,4 +1,4 @@
-# EMRDemo-TL-ES
+# EMRDemo-TL-IT
 Proyecto de traducción al italiano para el mod Doki Doki Exit Music Redux Demo.
 
 ## Descripción
