@@ -5,174 +5,204 @@ translate it game_script_291cd73e:
 
     # "It's the day of the festival."
     "Ha llegado el día del festival."
+    "Il giorno dell festival ha arrivato."
 
 # game/game_script.rpy:16
 translate it game_script_f55f58cd:
 
     # "Of all days, I expected this to be the one where I'd be walking to school with Sayori."
     "Esperaba ir a clase con Sayori en un día tan señalado,"
+    "Aspettavo di andare a classe con Sayori in un giorno fisso."
 
 # game/game_script.rpy:17
 translate it game_script_5f35e367:
 
     # "But Sayori isn't answering her phone."
     "pero Sayori no contesta el teléfono."
+    "Ma sayori non risponde il telefono."
 
 # game/game_script.rpy:18
 translate it game_script_f01b5f50:
 
     # "I consider going to her house to wake her up."
     "Había pensado en ir a su casa a despertarla, pero quizá es demasiado."
+    "Avevo pensato di andare a casa sua a svegliarla, ma forse è troppo."
 
 # game/game_script.rpy:19
 translate it game_script_bf20ec7b:
 
     # "It's not a big deal to at least wait for her, or help her wake up."
     "Esperarla o ayudarla a levantarse de la cama no me supondría un gran sacrificio."
+    "Aspettarla o aiutarla a svegliarsi dall leto non sarebbe un grande sacrifigio."
 
 # game/game_script.rpy:20
 translate it game_script_e601aa4e:
 
     # "Even the simple gesture of walking her to school makes her really happy."
     "El simple hecho de que vayamos juntos a clase le alegra el día."
+    "Anche il semplice gesto di accompagnarla a scuola la farebbe molto felice."
 
 # game/game_script.rpy:21
 translate it game_script_70e7cabf:
 
     # "Besides..."
-    "Además...,"
+    "Además..."
+    "Inoltre."
 
 # game/game_script.rpy:22
 translate it game_script_68430306:
 
     # "I told her yesterday that things will be the same as they always have been."
     "ayer le dije que todo volvería a la normalidad."
+    "ieri li ho detto que tutto ritornara a la normalita."
 
 # game/game_script.rpy:23
 translate it game_script_e35fe926:
 
     # "That's all she needs, and what I want to give her."
     "Es todo lo que necesita y es justo lo que quiero darle."
+    "È tutto ciò di cui ha bisogno ed è proprio quello che voglio darle."
 
 # game/game_script.rpy:24
 translate it game_script_8a012772:
 
     # "The hell with it. I'll go get her."
     "A la mierda, me voy a por Sayori."
+    "Sto cazzo, andro per Sayori."
 
 # game/game_script.rpy:25
 translate it game_script_6f7f2a01:
 
     # "I grab the cupcakes Natsuki and I made yesterday, and make my way to Sayori's."
     "Cojo los cupcakes que hicimos Natsuki y yo ayer y voy directo a casa de Sayori."
+    "Prendo i cupcakes que habiamo fatto io e Natsuki e vado direttamente a casa di Sayori."
 
 # game/game_script.rpy:29
 translate it game_script_558b962d:
 
     # "I reach Sayori's house and knock on the door."
     "Llego a casa de Sayori y llamo a la puerta."
+    "Arrivo a casa di Sayori e chiamo a la porta."
 
 # game/game_script.rpy:30
 translate it game_script_b8d78e77:
 
     # "I don't expect an answer, since she's not picking up her phone, either."
     "No coge mis llamadas, así que tampoco espero respuesta."
+    "Non risponde a le mie chiamate, quindi non mi aspetto alquna risposta."
 
 # game/game_script.rpy:31
 translate it game_script_a19898c6:
 
     # "Like yesterday, I open the door and let myself in."
     "Abro la puerta y me tomo la libertad de entrar, como hice ayer."
+    "Apro la porta e prendo la liberta di entrar,come ho fatto ieri"
 
 # game/game_script.rpy:38
 translate it game_script_4f4ec354:
 
     # "She really is a heavy sleeper..."
     "Duerme como una marmota..."
+    "Dorme come un ghiro."
 
 # game/game_script.rpy:39
 translate it game_script_17df0a8d:
 
     # "I swallow."
     "Trago saliva."
+    "Deglutisco."
 
 # game/game_script.rpy:40
 translate it game_script_5166b167:
 
     # "I can't believe I ended up doing this after all."
     "No me puedo creer que haya acabado haciendo esto."
+    "Non riesco a credere di aver fatto questo."
 
 # game/game_script.rpy:41
 translate it game_script_66baf796:
 
     # "Waking her up in her own house..."
     "Despertarla en su propia casa..."
+    "Svegliarla a casa sua..."
 
 # game/game_script.rpy:42
 translate it game_script_d39780a5:
 
     # "Isn't that more like something a boyfriend would do?"
     "¿No es algo que haría una pareja?"
+    "Non é questo que fanno le coppie?."
 
 # game/game_script.rpy:43
 translate it game_script_cc4d5947:
 
     # "In any case..."
     "En cualquier caso...,"
+    "in qualsiasi caso"
 
 # game/game_script.rpy:44
 translate it game_script_eff61fd1:
 
     # "It just feels right."
     "siento que es lo correcto."
+    "Mi sembra che questo é lo correto"
+
 
 # game/game_script.rpy:45
 translate it game_script_b771a755:
 
     # "Outside Sayori's room, I knock on her door."
     "Cuando llego a su habitación, llamo a la puerta."
+    "Fuori dalla stanza di Sayori,chiamo la porta"
 
 # game/game_script.rpy:46
 translate it game_script_e766b9e2:
 
     # mc "Sayori?"
     mc "¿Sayori?"
+    mc "Sayori?"
 
 # game/game_script.rpy:47
 translate it game_script_2d697678:
 
     # mc "Wake up, dummy..."
     mc "Despierta, idiota..."
+    mc "Sveglia, sciocchina"
 
 # game/game_script.rpy:48
 translate it game_script_4f673053:
 
     # "There's no response."
     "No hay respuesta."
+    "Nessuna risposta."
 
 # game/game_script.rpy:49
 translate it game_script_e55755b1:
 
     # "I really didn't want to have to enter her room like this..."
     "No quería tener que entrar en su cuarto de esta forma..."
+    "Non volero entrare nella sua stanza in questo modo"
 
 # game/game_script.rpy:50
 translate it game_script_5f524499:
 
     # "Isn't it kind of a breach of privacy?"
     "Parece una violación de su privacidad...,"
+    "Sembra una violazione della privacy."
 
 # game/game_script.rpy:51
 translate it game_script_92ad08b5:
 
     # "But she really leaves me no choice."
     "pero no me queda otra."
+    "pero non ho altra scelta"
 
 # game/game_script.rpy:52
 translate it game_script_b0993b5c:
 
     # "I gently open the door."
     "Abro la puerta con cuidado."
+    "Abro la porta pianamente."
 
 # game/game_script.rpy:54
 translate it game_script_4afacb09:
@@ -185,12 +215,14 @@ translate it game_script_c854fb6e:
 
     # mc "..ri?!"
     mc "¡¿... ri?!"
+    mc "... ri?!"
 
 # game/game_script.rpy:64
 translate it game_script_2d7cce6a:
 
     # s "[player]?!"
     s "¡¿[player]?!"
+    s "[player]?!"
 
 # game/game_script.rpy:67
 translate it game_script_d61e5692:
