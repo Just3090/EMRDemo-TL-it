@@ -46,7 +46,7 @@ translate it game_script_70e7cabf:
 translate it game_script_68430306:
 
     # "I told her yesterday that things will be the same as they always have been."
-    "ieri li ho detto que tutto ritornara a la normalita."
+    "Ieri li ho detto que tutto ritornara a la normalita."
 
 # game/game_script.rpy:23
 translate it game_script_e35fe926:
@@ -82,13 +82,13 @@ translate it game_script_b8d78e77:
 translate it game_script_a19898c6:
 
     # "Like yesterday, I open the door and let myself in."
-    "Apro la porta e prendo la liberta di entrar,come ho fatto ieri"
+    "Apro la porta e prendo la liberta di entrar,come ho fatto ieri."
 
 # game/game_script.rpy:38
 translate it game_script_4f4ec354:
 
     # "She really is a heavy sleeper..."
-    "Dorme come un ghiro."
+    "Dorme come un ghiro..."
 
 # game/game_script.rpy:39
 translate it game_script_17df0a8d:
@@ -118,13 +118,13 @@ translate it game_script_d39780a5:
 translate it game_script_cc4d5947:
 
     # "In any case..."
-    "in qualsiasi caso..."
+    "In qualsiasi caso..."
 
 # game/game_script.rpy:44
 translate it game_script_eff61fd1:
 
     # "It just feels right."
-    "Mi sembra che questo é lo correto"
+    "Mi sembra che questo é lo correto."
 
 
 # game/game_script.rpy:45
@@ -167,7 +167,7 @@ translate it game_script_5f524499:
 translate it game_script_92ad08b5:
 
     # "But she really leaves me no choice."
-    "pero non ho altra scelta"
+    "pero non ho altra scelta."
 
 # game/game_script.rpy:52
 translate it game_script_b0993b5c:
@@ -197,7 +197,6 @@ translate it game_script_2d7cce6a:
 translate it game_script_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    "Sayori está frente a su cama, con una cuerda bastante larga en su mano."
     "Sayori é davanti del suo letto, con una corda lunga in mano."
 
 # game/game_script.rpy:68
@@ -211,15 +210,14 @@ translate it game_script_211cae4d:
 translate it game_script_9c578752:
 
     # "In the shock of the moment, I release my grip on the cupcakes."
-    "En el impacto del momento, suelto la bandeja de cupcakes."
-    "sotto nel shock del momento, lascio cadere il vassoio con i cupcake"
+    "Sotto nel shock del momento, lascio cadere il vassoio con i cupcake."
 
 
 # game/game_script.rpy:70
 translate it game_script_0ecfd99c:
 
     # "The tray clatters to the floor."
-    "Il vassoio cade rumorosamente a terra.
+    "Il vassoio cade rumorosamente a terra."
 
 # game/game_script.rpy:72
 translate it game_script_1687cf73:
@@ -262,20 +260,19 @@ translate it game_script_73ce31aa:
 translate it game_script_0c6d3861:
 
     # "I should've known. It was obvious."
-    "avrei dovuto capirlo, era troppo ovvio."
+    "Avrei dovuto capirlo, era troppo ovvio."
 
 # game/game_script.rpy:87
 translate it game_script_accadaea:
 
     # "I didn't listen, didn't see the signs."
-    "No escuché, no vi las señales. Tenía orejas y ojos completamente sellados."
-    "ho ascoltato, non ho visto nessuna segnale. Avevo orecchie e occhi chiusi."
+    "Non ho ascoltato, non ho visto nessuna segnale. Avevo le orecchie e occhi chiusi."
 
 # game/game_script.rpy:89
 translate it game_script_5ba299ee:
 
     # "I...{w}almost lost her. My best friend."
-    "Quasi...{w} la perdo. Quasi perdo a mia migliore amica"
+    "Quasi...{w} la perdo. Quasi perdo a mia migliore amica."
 
 
 # game/game_script.rpy:90
@@ -288,14 +285,14 @@ translate it game_script_ea79bebf:
 translate it game_script_5046be86:
 
     # "Sayori drops the noose, dropping to the floor with a heavy thud."
-    "Sayori lascia cadere la corda, cadendo a terra con un tonfo"
+    "Sayori lascia cadere la corda, cadendo a terra con un tonfo."
 
 
 # game/game_script.rpy:93
 translate it game_script_8fe1a0ff:
 
     # "Just the act of looking at it makes my heart sink."
-    "solo guardandola mi rompe il cuore in mille pezzi."
+    "Solo guardandola mi rompe il cuore in mille pezzi."
 
 # game/game_script.rpy:95
 translate it game_script_e87e0575:
@@ -307,8 +304,7 @@ translate it game_script_e87e0575:
 translate it game_script_9eaafb91:
 
     # "She gets up and rushes towards me, clutching my shirt and crying into my chest."
-    "Se abalanza hacia mí, arrugando mi camisa mientras llora en mi pecho."
-    "Si lanscia verso di me, stringendo la mia camicia mentra piange"
+    "Si lanscia verso di me, stringendo la mia camicia mentra piange."
 
 
 # game/game_script.rpy:98
@@ -321,16 +317,14 @@ translate it game_script_1f4c19a1:
 translate it game_script_162c8404:
 
     # s "What I...talked to you about."
-    s "Ya sabes..., de lo que te hablé."
-    s "Gia lo sai..., quello che ti ho parlato"
+    s "Gia lo sai..., quello che ti ho parlato."
 
 
 # game/game_script.rpy:101
 translate it game_script_d2b08650:
 
     # s "I can't wake up every day like this."
-    s "No puedo levantarme de la cama todos los días de la misma manera."
-    s "Non posso svegliarmi dell letto tutti i giorni in questo modo"
+    s "Non posso svegliarmi dell letto tutti i giorni in questo modo."
 
 # game/game_script.rpy:103
 translate it game_script_dbd84492:
@@ -342,8 +336,7 @@ translate it game_script_dbd84492:
 translate it game_script_6dc4287b:
 
     # "Words catch and stick in my throat, unable to come out."
-    "Mis propias palabras se atascan en mi garganta, sin posibilidad de salir."
-    "Le mie stesse parole rimangono in gola, senza via d'uscita"
+    "Le mie stesse parole rimangono in gola, senza via d'uscita."
 
 # game/game_script.rpy:108
 translate it game_script_e8a331c8:
@@ -355,7 +348,7 @@ translate it game_script_e8a331c8:
 translate it game_script_691045a1:
 
     # s "I can't."
-    s "Non poss."
+    s "Non posso."
 
 # game/game_script.rpy:111
 translate it game_script_b34ab636:
