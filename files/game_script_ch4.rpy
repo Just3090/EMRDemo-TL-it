@@ -1472,526 +1472,526 @@ translate it game_script_7e97ab4f:
 translate it game_script_b5cdd9b2:
 
     # "But I shake the feeling off, as Natsuki swipes the manga out of my hands, and replaces it in its box."
-    ""
+    "Pero vuelvo a la realidad cuando Natauki me arrebata el tomo de las manos y lo deja en la colección de nuevo."
 
 # game/game_script.rpy:2644
 translate it game_script_9f30234c:
 
     # "Looking around, I see Sayori and Monika are talking closely with one another."
-    ""
+    "Echando un vistazo por el club, veo a Sayori y Monika hablar muy de cerca."
 
 # game/game_script.rpy:2646
 translate it game_script_d0d2c064:
 
     # "Silently, I gather up my things, and get ready to leave."
-    ""
+    "Completamente en silencio, recojo mis cosas y me preparo para irme."
 
 # game/game_script.rpy:2647
 translate it game_script_029de26b:
 
     # "Approaching Natsuki, I see she’s trying to stuff her Parfait Girls collection in her bag."
-    ""
+    "Acercándome a Natsuki, parece que intenta meter toda su colección de Parfait Girls en su bolsa."
 
 # game/game_script.rpy:2650
 translate it game_script_036f9b71:
 
     # mc "Hey, I’m sorry we didn’t really get to read much today..."
-    mc ""
+    mc "Oye, siento no haber podido avanzar mucho hoy..."
 
 # game/game_script.rpy:2652
 translate it game_script_411be913:
 
     # n "It’s okay, [player]."
-    n ""
+    n "Tranquilo, [player]."
 
 # game/game_script.rpy:2654
 translate it game_script_87d9dd37:
 
     # mc "Do you want me to walk you home?"
-    mc ""
+    mc "¿Quieres que te acompañe a casa?"
 
 # game/game_script.rpy:2656
 translate it game_script_198a959e:
 
     # n "I can’t..."
-    n ""
+    n "No puedo dejarte hacer eso..."
 
 # game/game_script.rpy:2658
 translate it game_script_ab1c4210:
 
     # n "In fact, I wasn’t even supposed to be here today..."
-    n ""
+    n "Para ser más exacta, ni siquiera debería haber venido al club hoy..."
 
 # game/game_script.rpy:2660
 translate it game_script_c32452f3:
 
     # n "But I needed to s-"
-    n ""
+    n "Pero necesitaba..."
 
 # game/game_script.rpy:2662
 translate it game_script_3f18a4eb:
 
     # n "I needed to..."
-    n ""
+    n "Necesitaba..."
 
 # game/game_script.rpy:2664
 translate it game_script_98aaaab2:
 
     # n "{i}Nnn...{/i}"
-    n ""
+    n "Aish..."
 
 # game/game_script.rpy:2666
 translate it game_script_3f18a4eb_1:
 
     # n "I needed to..."
-    n ""
+    n "Necesitaba..."
 
 # game/game_script.rpy:2668
 translate it game_script_13b512b3:
 
     # n "...leave a few minutes ago."
-    n ""
+    n "irme hace unos minutos."
 
 # game/game_script.rpy:2670
 translate it game_script_996d6e17:
 
     # n "You’ll be...{w}over later?"
-    n ""
+    n "¿Vendrás...{w} después?"
 
 # game/game_script.rpy:2672
 translate it game_script_3fe582e5:
 
     # mc "Yeah. Get your things ready."
-    mc ""
+    mc "Sí. Prepara tus cosas para cuando esté allí."
 
 # game/game_script.rpy:2673
 translate it game_script_9a1b9369:
 
     # mc "I’ll give you a call."
-    mc ""
+    mc "Te llamaré."
 
 # game/game_script.rpy:2675
 translate it game_script_aa8c9433:
 
     # n "Alright."
-    n ""
+    n "Genial."
 
 # game/game_script.rpy:2678
 translate it game_script_0145b51b:
 
     # "She balks for a second, then hugs me."
-    ""
+    "Se resiste por un momento y me abraza."
 
 # game/game_script.rpy:2680
 translate it game_script_47c507ac:
 
     # mc "You’ll be okay."
-    mc ""
+    mc "Todo irá bien y estarás bien."
 
 # game/game_script.rpy:2682
 translate it game_script_40276d1a:
 
     # n "I’ll be waiting for you."
-    n ""
+    n "Estaré esperándote, ¿vale?"
 
 # game/game_script.rpy:2685
 translate it game_script_33c94c99:
 
     # "She lets go, and I watch her bolt out the door in a half-sprint."
-    ""
+    "Se aleja y la veo salir corriendo a toda velocidad hacia la puerta."
 
 # game/game_script.rpy:2686
 translate it game_script_0adf4c2a:
 
     # "I notice Sayori giving a quick goodbye to Monika, before following through the door."
-    ""
+    "Me percato de Sayori, que se despide de Monika rápidamente, antes de echar un vistazo a la puerta."
 
 # game/game_script.rpy:2690
 translate it game_script_5596d704:
 
     # "A sinking feeling squeezes my lungs."
-    ""
+    "Siento que mis pulmones se están hundiendo en algo."
 
 # game/game_script.rpy:2691
 translate it game_script_36707738:
 
     # "I stave it off with a mental mantra."
-    ""
+    "Lo evito pensando en algo tranquilo."
 
 # game/game_script.rpy:2692
 translate it game_script_806657e6:
 
     # "Everything will be okay. It’ll be okay soon."
-    ""
+    "Todo va sobre ruedas, todo va a mejorar pronto."
 
 # game/game_script.rpy:2693
 translate it game_script_806657e6_1:
 
     # "Everything will be okay. It’ll be okay soon."
-    ""
+    "Todo va sobre ruedas, todo va a mejorar pronto."
 
 # game/game_script.rpy:2694
 translate it game_script_97abb99a:
 
     # "Every--{w=0.2}{nw}"
-    ""
+    "Tod{w=0.2}{nw}"
 
 # game/game_script.rpy:2701
 translate it game_script_321b2681:
 
     # y "[player]?"
-    y ""
+    y "¿[player]?"
 
 # game/game_script.rpy:2703
 translate it game_script_01196e39:
 
     # mc "A-Ah!"
-    mc ""
+    mc "¡A-Ay!"
 
 # game/game_script.rpy:2705
 translate it game_script_25f8c40f:
 
     # "Yuri’s sudden presence was unexpected."
-    ""
+    "No me esperaba la repentina presencia de Yuri."
 
 # game/game_script.rpy:2706
 translate it game_script_ec52b878:
 
     # "I guess I got lost in my own mind there."
-    ""
+    "Supongo que es porque estaba en Babia."
 
 # game/game_script.rpy:2708
 translate it game_script_34c1325e:
 
     # y lup rup e2a ml "S-Sorry!"
-    y lup rup e2a ml ""
+    y lup rup e2a ml "¡P-Perdona!"
 
 # game/game_script.rpy:2710
 translate it game_script_70638cde:
 
     # y "I-I didn’t mean to scare you!"
-    y ""
+    y "¡N-No pretendía a-asustarte!"
 
 # game/game_script.rpy:2712
 translate it game_script_e8fc0be5:
 
     # mc "Ah, uh..."
-    mc ""
+    mc "Ay, eh..."
 
 # game/game_script.rpy:2713
 translate it game_script_4abaadab:
 
     # mc "No, it was my fault."
-    mc ""
+    mc "No, tranquila. Ha sido culpa mía."
 
 # game/game_script.rpy:2714
 translate it game_script_4553c6f6:
 
     # mc "I was just trying to, um..."
-    mc ""
+    mc "Es que estaba..., eh..."
 
 # game/game_script.rpy:2716
 translate it game_script_d698471b:
 
     # y turned e1b b1b rup mh "Calm down?"
-    y turned e1b b1b rup mh ""
+    y turned e1b b1b rup mh "¿Relajado?"
 
 # game/game_script.rpy:2718
 translate it game_script_2e7ea505:
 
     # mc "I...{w}yeah."
-    mc ""
+    mc "Eh...,{w} ¡sí, eso! Relajado."
 
 # game/game_script.rpy:2719
 translate it game_script_374b1eb2:
 
     # mc "How did..?"
-    mc ""
+    mc "Espera, cómo has..."
 
 # game/game_script.rpy:2720
 translate it game_script_b8c3a2d1:
 
     # mc "You know what, nevermind."
-    mc ""
+    mc "¿Sabes qué? Mejor, déjalo."
 
 # game/game_script.rpy:2721
 translate it game_script_2e69a2a4:
 
     # mc "What’s up?"
-    mc ""
+    mc "¿Cómo estás?"
 
 # game/game_script.rpy:2723
 translate it game_script_dfcd9992:
 
     # y rdown mb "Well...I was just wondering if..."
-    y rdown mb ""
+    y rdown mb "Pues..., me preguntaba si...,"
 
 # game/game_script.rpy:2724
 translate it game_script_53a50e2f:
 
     # y shy e1 b1 m4 "If you would...{w}l-like to walk together?"
-    y shy e1 b1 m4 ""
+    y shy e1 b1 m4 "si te importaría...{w} i-ir a casa andando juntos."
 
 # game/game_script.rpy:2726
 translate it game_script_ade3dc87:
 
     # mc "Home?"
-    mc ""
+    mc "¿A casa?"
 
 # game/game_script.rpy:2728
 translate it game_script_94004a03:
 
     # "Oh."
-    ""
+    "Vaya."
 
 # game/game_script.rpy:2729
 translate it game_script_5af16da4:
 
     # "That’s certainly not like Yuri to just approach me like that."
-    ""
+    "A decir verdad, no es típico de Yuri acercarse a mí para decirme estas cosas..."
 
 # game/game_script.rpy:2731
 translate it game_script_c1a82151:
 
     # y turned flus mh oe "I just noticed how Sayori and you walk home a lot, a-and was wondering if you’d want to since..."
-    y turned flus mh oe ""
+    y turned flus mh oe "Me di cuenta de que te ibas mucho a casa con Sayori, y m-me preguntaba si querías porque...,"
 
 # game/game_script.rpy:2732
 translate it game_script_8941bb7d:
 
     # y e1c me "Y-You know..."
-    y e1c me ""
+    y e1c me "y-ya sabes..."
 
 # game/game_script.rpy:2734
 translate it game_script_0dc2db65:
 
     # "Regardless, I appreciate the sentiment from Yuri, even if it is very...{w}{i}unlike{/i} her to ask such a thing."
-    ""
+    "A pesar de todo, aprecio enormemente la intención de Yuri, aunque no sea muy 'de ella' preguntar tal cosa."
 
 # game/game_script.rpy:2735
 translate it game_script_e872b14c:
 
     # "Especially since I don’t really want to walk home alone."
-    ""
+    "Además, no me quiero ir solo a casa."
 
 # game/game_script.rpy:2736
 translate it game_script_b7ce8b36:
 
     # "Not right now."
-    ""
+    "Al menos, no ahora mismo."
 
 # game/game_script.rpy:2738
 translate it game_script_fd96d044:
 
     # mc "Sure, Yuri. That’d be nice, actually."
-    mc ""
+    mc "Sí, claro. No estaría mal, ¿sabes?"
 
 # game/game_script.rpy:2740
 translate it game_script_9c1b67f5:
 
     # "Yuri gives the tiniest of smiles, still avoiding direct eye contact."
-    ""
+    "Yuri esboza una leve sonrisa al mismo tiempo que trata de evitar mirarme directamente."
 
 # game/game_script.rpy:2742
 translate it game_script_454eabe6:
 
     # y rup e1a mb "Oh...{w}great! Let me pick up my things..."
-    y rup e1a mb ""
+    y rup e1a mb "Pues...,{w} ¡genial! Voy a recoger mis cosas y nos vamos..."
 
 # game/game_script.rpy:2744
 translate it game_script_67ce7fbc:
 
     # "She picks up her black bag and heads towards the door."
-    ""
+    "Tras recoger todo, se cuelga su bolso negro y va directamente hacia la puerta."
 
 # game/game_script.rpy:2745
 translate it game_script_c04f8aa3:
 
     # "I wave to Monika, who seems to be staring at her desk."
-    ""
+    "Me despido de Monika, la cual parece mirar fíjamente a su escritorio."
 
 # game/game_script.rpy:2746
 translate it game_script_eec13dbc:
 
     # "She doesn’t acknowledge us."
-    ""
+    "No se ha percatado de nuestra presencia."
 
 # game/game_script.rpy:2750
 translate it game_script_bd0a06fc:
 
     # "We head towards the school doors."
-    ""
+    "Nos dirigimos a la puerta de entrada del instituto."
 
 # game/game_script.rpy:2752
 translate it game_script_cb70afb1_1:
 
     # mc "So..."
-    mc ""
+    mc "Entonces...,"
 
 # game/game_script.rpy:2753
 translate it game_script_b3ae8984:
 
     # mc "Uhm..."
-    mc ""
+    mc "eh..."
 
 # game/game_script.rpy:2755
 translate it game_script_4d58b617:
 
     # "I’ve got nothing."
-    ""
+    "¿Qué iba a decir?"
 
 # game/game_script.rpy:2757
 translate it game_script_40c90505:
 
     # mc "Sorry, I don’t really know {i}what{/i} to talk about."
-    mc ""
+    mc "Perdona, es que no tengo ni idea de qué hablar."
 
 # game/game_script.rpy:2758
 translate it game_script_e042b5a2:
 
     # mc "You’ve always seemed like such a mysterious person."
-    mc ""
+    mc "Es que pareces una persona muy misteriosa."
 
 # game/game_script.rpy:2760
 translate it game_script_5110ea2f:
 
     # mc "In fact, I don’t really know what you like beyond horror novels and tea and...unique scents."
-    mc ""
+    mc "De hecho, aparte del té, novelas de terror y aceites esenciales de olor único... no sé qué te gusta."
 
 # game/game_script.rpy:2762
 translate it game_script_1be1c301:
 
     # mc "I suppose that’s my fault for not reaching out to you."
-    mc ""
+    mc "Supongo que es culpa mía por no tratar de averiguarlo."
 
 # game/game_script.rpy:2764
 translate it game_script_8a28e21a:
 
     # y me "It’s...{w}not your fault."
-    y me ""
+    y me "No es...{w} culpa tuya."
 
 # game/game_script.rpy:2765
 translate it game_script_79b14a12:
 
     # y b1a e4a n1 "I keep my personality fairly sequestered..."
-    y b1a e4a n1 ""
+    y b1a e4a n1 "Mantengo mi personalidad muy reprimida..."
 
 # game/game_script.rpy:2766
 translate it game_script_64bb864e:
 
     # y rup e1b b1b mg "Even my friends, like..."
-    y rup e1b b1b mg ""
+    y rup e1b b1b mg "Y no es solamente contigo. Pasa también con mis amigos, como...,"
 
 # game/game_script.rpy:2767
 translate it game_script_61212391:
 
     # y "Like Sayori, for example..."
-    y ""
+    y "como Sayori, por ejemplo..."
 
 # game/game_script.rpy:2768
 translate it game_script_62aaf7b9:
 
     # y e1d lup "They don’t know much about me, and that's quite deliberate."
-    y e1d lup ""
+    y e1d lup "No saben mucho de mí, lo que es bastante deliberado."
 
 # game/game_script.rpy:2769
 translate it game_script_7a56bd53:
 
     # y e4a b1a "I...{w}just feel much safer hiding away from people."
-    y e4a b1a ""
+    y e4a b1a "Es que me siento...{w} más segura escondiéndome de la gente."
 
 # game/game_script.rpy:2771
 translate it game_script_9d93c904:
 
     # "I chuckle at the irony of what she’s saying."
-    ""
+    "Me río de lo irónico de sus palabras."
 
 # game/game_script.rpy:2773
 translate it game_script_990b2616:
 
     # mc "And yet here you are talking about it."
-    mc ""
+    mc "Pues aquí estás, contándolo como si nada."
 
 # game/game_script.rpy:2775
 translate it game_script_2586e257:
 
     # y e2a b1c mh "Eh?!"
-    y e2a b1c mh ""
+    y e2a b1c mh "¡¿Eh?!"
 
 # game/game_script.rpy:2776
 translate it game_script_f3a01788:
 
     # y e1b n2 mb "Oh, well..."
-    y e1b n2 mb ""
+    y e1b n2 mb "Ah, es que..."
 
 # game/game_script.rpy:2777
 translate it game_script_148f301f:
 
     # y mk "Uuu..."
-    y mk ""
+    y mk "Uuuh..."
 
 # game/game_script.rpy:2778
 translate it game_script_95f56ecc:
 
     # y 2f "Y-you’re different. Both a stranger...{w}but an..."
-    y 2f ""
+    y 2f "E-Eres diferente. Sigues siendo un extraño, pero a la vez un...,"
 
 # game/game_script.rpy:2779
 translate it game_script_15f103e7:
 
     # y turned b1b e1b mb "A-Acquaintance."
-    y turned b1b e1b mb ""
+    y turned b1b e1b mb "un c-conocido."
 
 # game/game_script.rpy:2781
 translate it game_script_1b08bd9d:
 
     # y "I just feel quite...{w}comfortable around you."
-    y ""
+    y "Es como que me siento muy...,{w} cómoda cerca de ti."
 
 # game/game_script.rpy:2782
 translate it game_script_94e36cc2:
 
     # y rup e4a ma "It's nice being able to let my guard down when we're together."
-    y rup e4a ma ""
+    y rup e4a ma "Me gusta bajar la guardia cuando estamos juntos."
 
 # game/game_script.rpy:2784
 translate it game_script_3b147734:
 
     # "Her face then burns bright red, her mouth trying to spit something out but not quite managing to do so."
-    ""
+    "Su cara cambia a un color rojo chillón mientras que su boca trata de soltar algo pero lucha para no hacerlo."
 
 # game/game_script.rpy:2789
 translate it game_script_5dc0d783:
 
     # "She exhales deeply."
-    ""
+    "Exhala."
 
 # game/game_script.rpy:2791
 translate it game_script_773fb2da:
 
     # y turned b1b e1b mk "I’m...{w}sorry, I must sound crazy."
-    y turned b1b e1b mk ""
+    y turned b1b e1b mk "Lo siento,{w} debo de parecer loca."
 
 # game/game_script.rpy:2794
 translate it game_script_87dde60d:
 
     # "Her voice then begins to take on a more defeated tone."
-    ""
+    "Su voz pasa a un tono más abatido."
 
 # game/game_script.rpy:2796
 translate it game_script_5eefe04f:
 
     # y e1a n3 mb "But I think that’s why she likes you."
-    y e1a n3 mb ""
+    y e1a n3 mb "Creo que es por eso por lo que le gustas."
 
 # game/game_script.rpy:2798
 translate it game_script_898d23d6:
 
     # "Uh...{w}{i}what{/i}?"
-    ""
+    "Que..., ¡¿qué?!"
 
 # game/game_script.rpy:2799
 translate it game_script_6bab7925:
 
     # "I play dumb."
-    ""
+    "Me hago el tonto."
