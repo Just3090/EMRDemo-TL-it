@@ -391,19 +391,19 @@ translate it game_script_c7bb117c:
 translate it game_script_5e006e6a:
 
     # "I finally pull myself together enough to speak."
-    "Aúno todas las fuerzas posibles para poder articular palabras coherentes."
+    "Raccolgo la forza per parlare."
 
 # game/game_script.rpy:126
 translate it game_script_7e85b45d:
 
     # mc "Sayori...{w}could you imagine if I'd found you like that?"
-    mc "Sayori...,{w} ¿puedes imaginarte lo que pasaría si te hubiese encontrado así?"
+    mc "Sayori...,{w} riesci a immaginare se ti avessi trovata cosi?"
 
 # game/game_script.rpy:127
 translate it game_script_a2b4f5c1:
 
     # mc "My last memory of you, my best friend?"
-    mc "¿Sabes que 'ese' hubiera sido el último recuerdo que tenga de mi mejor amiga?"
+    mc "Sai che quello avrebbe potuto essere l'ultimo ricordo di te,da mia migliore amica?"
 
 # game/game_script.rpy:130
 translate it game_script_31cd6374:
@@ -415,31 +415,31 @@ translate it game_script_31cd6374:
 translate it game_script_c74f3dca:
 
     # s "I'm such a failure, [player]."
-    s "Soy un fracaso, [player]..."
+    s "Sono una fallita, [player]..."
 
 # game/game_script.rpy:133
 translate it game_script_8f12eec9:
 
     # s "I've only ever been selfish."
-    s "He sido una egoísta."
+    s "Sono sempre stata una egoista."
 
 # game/game_script.rpy:134
 translate it game_script_6a29f8fb:
 
     # s "I can't even think about the only person that cares about me for one second."
-    s "Tan egoísta como para no pensar ni un segundo en la única persona que cuida de mí."
+    s " Non riesco nemmeno a pensare per un secondo all'unica persona che si prende cura di me
 
 # game/game_script.rpy:136
 translate it game_script_94fd5938:
 
     # mc "Sayori, please listen."
-    mc "Sayori, haz el favor de escucharme."
+    mc "Sayori, perfavore ascoltami."
 
 # game/game_script.rpy:137
 translate it game_script_b72e96d2:
 
     # mc "There are so many people who care about you."
-    mc "Hay gente que se preocupa por ti, no soy yo el único."
+    mc "Ci sono tante persone che tengono a te."
 
 # game/game_script.rpy:138
 translate it game_script_fe052d85:
@@ -451,25 +451,25 @@ translate it game_script_fe052d85:
 translate it game_script_35850bd4:
 
     # mc "Your parents."
-    mc "Incluso tus padres."
+    mc "tuoi genitori."
 
 # game/game_script.rpy:140
 translate it game_script_852b9563:
 
     # mc "I want-..."
-    mc "Quiero qu..."
+    mc "Voglio che..."
 
 # game/game_script.rpy:142
 translate it game_script_e2026954:
 
     # "I choke back a sob and steady myself again."
-    "Retrocedo, puesto que un pequeño sollozo se apodera de mí antes de recomponerme."
+    "Trattengo un singhiozzo e mi ricompongo di nuovo."
 
 # game/game_script.rpy:144
 translate it game_script_321480d5:
 
     # mc "I want you to remember that. You have a place here, and it wouldn't be the same."
-    mc "Quiero que recuerdes bien lo que te voy a decir: tienes un lugar que ocupar en este mundo, y sin ti nada será lo mismo."
+    mc "Voglio che tu lo ricordi questo: hai un posto qui, e senza di te non sarebbe lo stesso."
 
 # game/game_script.rpy:145
 translate it game_script_2b35b6fe:
@@ -482,12 +482,14 @@ translate it game_script_3a38f78a:
 
     # mc "And I know it wouldn't be."
     mc "Y sé bien que nada será lo mismo."
+    mc "E so bene che non tutto sarà come prima"
 
 # game/game_script.rpy:147
 translate it game_script_3495352a:
 
     # mc "You told me yourself yesterday."
-    mc "Tú misma me lo dijiste ayer."
+    mc "Me lo hai detto tu stessa ieri."
+    
 
 # game/game_script.rpy:153
 translate it game_script_23d81314:
@@ -499,25 +501,27 @@ translate it game_script_23d81314:
 translate it game_script_b88b4335:
 
     # "She backs away, catching her breath."
-    "Retrocede, cogiendo aire."
+    "Si allontana, riprendendo fiato."
 
 # game/game_script.rpy:157
 translate it game_script_cb759382:
 
     # mc "I'm here for you."
-    mc "Estoy aquí para ti, Sayori."
+    mc "Sono qui per te, sayori"
+
 
 # game/game_script.rpy:158
 translate it game_script_7359bd89:
 
     # mc "We all are."
-    mc "Todos estamos para ti."
+    mc "Tutti siamo per te."
+    
 
 # game/game_script.rpy:159
 translate it game_script_d355debe:
 
     # mc "No matter what."
-    mc "Sin importar lo que ocurra."
+    mc "Non importa cosa accada."
 
 # game/game_script.rpy:163
 translate it game_script_62930ff7:
@@ -529,49 +533,49 @@ translate it game_script_62930ff7:
 translate it game_script_2ddb555d:
 
     # mc "Sayori, you need to talk to somebody professional about this."
-    mc "Sayori, necesitas hablar con un profesional acerca de esto que acaba de ocurrir."
+    mc "Sayori, devi parlare con qualcuno di professionale risguardo a questo."
 
 # game/game_script.rpy:167
 translate it game_script_39f68306:
 
     # mc "Please...sooner rather than later."
-    mc "Por favor..., más pronto que tarde."
+    mc "Por favore..., prima che poi."
 
 # game/game_script.rpy:173
 translate it game_script_1f3303ab:
 
     # s "I don't think I-I'm ready..."
-    s "N-No creo que esté lista..."
+    s "N-Non penso essere pronta..."
     
 # game/game_script.rpy:174
 translate it game_script_b7884adf:
 
     # s "W-we can go another time."
-    s "P-Podemos ir otro día."
+    s "P-Possiamo andarci altro giorno?."
 
 # game/game_script.rpy:176
 translate it game_script_77348571:
 
     # s "There's still...the festival..."
-    s "El festival..., no me olvido del festival...,"
+    s "C'e ancora... il festival..."
 
 # game/game_script.rpy:177
 translate it game_script_8e339ee2:
 
     # s "I wouldn't want you to keep the others waiting..."
-    s "y no me gustaría que dejases a las chicas espe..."
+    s "e non mi piacerebbe lasciare a le raggazze aspe-"
 
 # game/game_script.rpy:179
 translate it game_script_0f7425d2:
 
     # mc "Screw the festival."
-    mc "Que le den al festival, Sayori."
-
+    mc "fancullo il festivale, Sayori."
+    
 # game/game_script.rpy:180
 translate it game_script_3ed8bb9a:
 
     # mc "You're more important to me than that."
-    mc "Me importas mucho más que eso."
+    mc "Tu sei piu importante di quello."
 
 # game/game_script.rpy:181
 translate it game_script_763600d7:
@@ -579,42 +583,55 @@ translate it game_script_763600d7:
     # mc "Sayori...this isn't just something we can just {i}put off{/i}."
     mc "Esto no es algo que podamos olvidar de un día para otro."
 
+# game/game_script.rpy:181
+translate it game_script_763600d7:
+
+    # mc "Sayori...this isn't just something we can just {i}put off{/i}."
+    mc "Non è una cosa che possiamo dimenticare da un giorno all'altro."
+
 # game/game_script.rpy:183
 translate it game_script_7fa5db4a:
 
     # mc "What if something like this happens tomorrow? Or when I'm not here?"
-    mc "¿Qué pasa si vuelve a ocurrir algo así mañana? ¿Y si ocurre cuando no esté presente?"
+    mc "E se succedesse di nuovo domani? o quando non ci sono?3"
 
 # game/game_script.rpy:184
 translate it game_script_7cf8353a:
 
     # mc "I'm not going to force you...but I really think you should."
-    mc "No voy a obligarte, pero... creo que te convendría ir."
+    mc "Non ti costringo, pero... penso davvero che dovresti andare li."
 
 # game/game_script.rpy:185
 translate it game_script_811263f7:
 
     # mc "They can help."
-    mc "Pueden ayudarte, Sayori."
+    mc "Possono aiutarti, Sayori."
 
 # game/game_script.rpy:186
 translate it game_script_03a04da1:
 
     # mc "If I didn’t do everything in my power to help you, I could never forgive myself."
-    mc "Si no hiciese todo lo que está en mis manos para ayudarte, nunca me lo perdonaría."
+    mc "Se non facessi tutto ciò che è in mio potere per aiutarti, non potrei mai perdonarmelo."
 
 # game/game_script.rpy:188
 translate it game_script_0fa0ca9b:
 
     # "She sniffles, wiping her face with her sleeve."
-    "Sayori se seca la cara con la manga de su camisa."
+    "Sayori tira su col naso e si asciuga il viso con la manica."
+
+# game/game_script.rpy:190
+translate it game_script_9b6f88cb:
+
+    # s "Y-you really mean that?"
+    s "¿D-De verdad lo dices en serio?"
+    s "L-Lo dici davvero?"
 
 # game/game_script.rpy:191
 translate it game_script_62a119a2:
 
     # s "You care about me too much, [player]."
     s "Te preocupas mucho por mí, [player]."
-
+    
 # game/game_script.rpy:193
 translate it game_script_f9085243:
 
