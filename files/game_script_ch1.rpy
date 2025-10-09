@@ -563,7 +563,7 @@ translate it game_script_77348571:
 translate it game_script_8e339ee2:
 
     # s "I wouldn't want you to keep the others waiting..."
-    s "e non mi piacerebbe lasciare a le raggazze aspe-"
+    s "e non mi piacerebbe lasciare a le raggazze aspe..."
 
 # game/game_script.rpy:179
 translate it game_script_0f7425d2:
