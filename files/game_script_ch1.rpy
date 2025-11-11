@@ -581,7 +581,7 @@ translate it game_script_3ed8bb9a:
 translate it game_script_763600d7:
 
     # mc "Sayori...this isn't just something we can just {i}put off{/i}."
-    mc "Esto no es algo que podamos olvidar de un día para otro."
+    mc "Sayori... Questo non è una cosa che possiamo dimenticare di un giorno all'altro"
 
 # game/game_script.rpy:181
 translate it game_script_763600d7:
