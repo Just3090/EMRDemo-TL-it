@@ -642,18 +642,20 @@ translate it game_script_f7a99b6c:
 
     # "She gazes out the window for a long, silent moment."
     "Mira a través de la ventana, en completo silencio, durante un buen rato."
+    "Guardo attraverso dalla finestra, in completo silenzio, per un bel po'"
 
 # game/game_script.rpy:199
 translate it game_script_1c6f029f:
 
     # s "I-I don't want to feel like this anymore."
     s "Q-Quiero dejar de sentirme así, ¿sabes?"
+    s "I-io non voglio sentirmi cosi mai nella vita"
 
 # game/game_script.rpy:200
 translate it game_script_f1ba3dc7:
 
     # s "If they can help..."
-    s "Si es cierto que pueden ayudarme,"
+    s "Si è vero che mi possono aiutarmi."
 
 # game/game_script.rpy:202
 translate it game_script_eca9793e:
