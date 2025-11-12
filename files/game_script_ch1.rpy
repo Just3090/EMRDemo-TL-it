@@ -623,20 +623,19 @@ translate it game_script_0fa0ca9b:
 translate it game_script_9b6f88cb:
 
     # s "Y-you really mean that?"
-    s "¿D-De verdad lo dices en serio?"
     s "L-Lo dici davvero?"
 
 # game/game_script.rpy:191
 translate it game_script_62a119a2:
 
     # s "You care about me too much, [player]."
-    s "Te preocupas mucho por mí, [player]."
+    s "Ti preoccupi molto per me, [player]."
     
 # game/game_script.rpy:193
 translate it game_script_f9085243:
 
     # s "But...{w} I-I guess you're right..."
-    s "Pero...{w} s-supongo que tienes razón..."
+    s "Pero...{w} P-penso che tu abbia ragione...."
 
 # game/game_script.rpy:196
 translate it game_script_f7a99b6c:
