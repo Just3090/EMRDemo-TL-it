@@ -662,6 +662,8 @@ translate it game_script_eca9793e:
 
     # s "I'll try."
     s "haré el esfuerzo."
+    s "Farò lo sforzo"
+
 
 # game/game_script.rpy:205
 translate it game_script_e4980b51:
@@ -680,6 +682,7 @@ translate it game_script_cef3b8a5:
 
     # "I just want her to be okay..."
     "Lo único que quiero es que esté bien..."
+    "l'ho unico che voglio e che stia bene..."
 
 # game/game_script.rpy:209
 translate it game_script_b601bb12:
