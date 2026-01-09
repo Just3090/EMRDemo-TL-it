@@ -82,7 +82,7 @@ translate it game_script_b8d78e77:
 translate it game_script_a19898c6:
 
     # "Like yesterday, I open the door and let myself in."
-    "Apro la porta e prendo la liberta di entrar,come ho fatto ieri."
+    "Come ieri, apro la porta ed entro senza esitare"
 
 # game/game_script.rpy:38
 translate it game_script_4f4ec354:
@@ -112,7 +112,7 @@ translate it game_script_66baf796:
 translate it game_script_d39780a5:
 
     # "Isn't that more like something a boyfriend would do?"
-    "Non é questo que fanno le coppie?"
+    "Non é una cosa che farebbe un fidanzato?"
 
 # game/game_script.rpy:43
 translate it game_script_cc4d5947:
@@ -124,14 +124,14 @@ translate it game_script_cc4d5947:
 translate it game_script_eff61fd1:
 
     # "It just feels right."
-    "Mi sembra che questo é lo correto."
+    "Sembra la cosa giusta."
 
 
 # game/game_script.rpy:45
 translate it game_script_b771a755:
 
     # "Outside Sayori's room, I knock on her door."
-    "Fuori dalla stanza di Sayori,chiamo la porta"
+    "Fuori dalla stanza di Sayori, chiamo la porta."
 
 # game/game_script.rpy:46
 translate it game_script_e766b9e2:
@@ -155,7 +155,7 @@ translate it game_script_4f673053:
 translate it game_script_e55755b1:
 
     # "I really didn't want to have to enter her room like this..."
-    "Non volero entrare nella sua stanza in questo modo..."
+    "Non volevo davvero entrare nella sua stanza in questo modo..."
 
 # game/game_script.rpy:50
 translate it game_script_5f524499:
@@ -167,7 +167,7 @@ translate it game_script_5f524499:
 translate it game_script_92ad08b5:
 
     # "But she really leaves me no choice."
-    "pero non ho altra scelta."
+    "pero non mi lascia altra scelta."
 
 # game/game_script.rpy:52
 translate it game_script_b0993b5c:
@@ -197,7 +197,7 @@ translate it game_script_2d7cce6a:
 translate it game_script_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    "Sayori é davanti del suo letto, con una corda lunga in mano."
+    "Sayori é ai piedi del letto, con una lunga corda
 
 # game/game_script.rpy:68
 translate it game_script_211cae4d:
@@ -266,7 +266,7 @@ translate it game_script_0c6d3861:
 translate it game_script_accadaea:
 
     # "I didn't listen, didn't see the signs."
-    "Non ho ascoltato, non ho visto nessuna segnale. Avevo le orecchie e occhi chiusi."
+    "Non ho ascoltato, non ho visto nessun segnale."
 
 # game/game_script.rpy:89
 translate it game_script_5ba299ee:
@@ -304,8 +304,7 @@ translate it game_script_e87e0575:
 translate it game_script_9eaafb91:
 
     # "She gets up and rushes towards me, clutching my shirt and crying into my chest."
-    "Si lanscia verso di me, stringendo la mia camicia mentra piange."
-
+    "Si lanscia verso di me, stringendo la mia camicia e piangendo contro il mio petto."
 
 # game/game_script.rpy:98
 translate it game_script_1f4c19a1:
@@ -481,7 +480,6 @@ translate it game_script_2b35b6fe:
 translate it game_script_3a38f78a:
 
     # mc "And I know it wouldn't be."
-    mc "Y sé bien que nada será lo mismo."
     mc "E so bene che non tutto sarà come prima"
 
 # game/game_script.rpy:147
@@ -501,7 +499,7 @@ translate it game_script_23d81314:
 translate it game_script_b88b4335:
 
     # "She backs away, catching her breath."
-    "Si allontana, riprendendo fiato."
+    "Si allontana, riprendendo il rispiro."
 
 # game/game_script.rpy:157
 translate it game_script_cb759382:
@@ -533,7 +531,7 @@ translate it game_script_62930ff7:
 translate it game_script_2ddb555d:
 
     # mc "Sayori, you need to talk to somebody professional about this."
-    mc "Sayori, devi parlare con qualcuno di professionale risguardo a questo."
+    mc "Sayori, devi parlare con qualcuno professionale risguardo a questo."
 
 # game/game_script.rpy:167
 translate it game_script_39f68306:
@@ -563,13 +561,13 @@ translate it game_script_77348571:
 translate it game_script_8e339ee2:
 
     # s "I wouldn't want you to keep the others waiting..."
-    s "e non mi piacerebbe lasciare a le raggazze aspe..."
+    s "E non mi piacerebbe lasciare a le raggazze aspe..."
 
 # game/game_script.rpy:179
 translate it game_script_0f7425d2:
 
     # mc "Screw the festival."
-    mc "fancullo il festivale, Sayori."
+    mc "Al diavolo il festival, Sayori."
     
 # game/game_script.rpy:180
 translate it game_script_3ed8bb9a:
@@ -581,7 +579,7 @@ translate it game_script_3ed8bb9a:
 translate it game_script_763600d7:
 
     # mc "Sayori...this isn't just something we can just {i}put off{/i}."
-    mc "Sayori... Questo non è una cosa che possiamo dimenticare di un giorno all'altro"
+    mc "Sayori... Questo non è una cosa che possiamo dimenticare {i}di un giorno all'altro{/i}"
 
 # game/game_script.rpy:181
 translate it game_script_763600d7:
@@ -641,15 +639,13 @@ translate it game_script_f9085243:
 translate it game_script_f7a99b6c:
 
     # "She gazes out the window for a long, silent moment."
-    "Mira a través de la ventana, en completo silencio, durante un buen rato."
     "Guardo attraverso dalla finestra, in completo silenzio, per un bel po'"
 
 # game/game_script.rpy:199
 translate it game_script_1c6f029f:
 
     # s "I-I don't want to feel like this anymore."
-    s "Q-Quiero dejar de sentirme así, ¿sabes?"
-    s "I-io non voglio sentirmi cosi mai nella vita"
+    s "I-io non voglio sentirmi cosi, sai?"
 
 # game/game_script.rpy:200
 translate it game_script_f1ba3dc7:
@@ -661,106 +657,105 @@ translate it game_script_f1ba3dc7:
 translate it game_script_eca9793e:
 
     # s "I'll try."
-    s "haré el esfuerzo."
     s "Farò lo sforzo"
-
 
 # game/game_script.rpy:205
 translate it game_script_e4980b51:
 
     # "I let out a deep sigh, while my adrenaline slowly subsides."
-    "Profano un largo y pesado suspiro mientras mi adrenalina empieza a descender poco a poco."
+    Lascio uscire un lungo sospiro, mentre l’adrenalina lentamente si dissolve.
 
 # game/game_script.rpy:206
 translate it game_script_59008570:
 
     # "However, I still can’t shake the anxiety brought on by all that’s transpired."
     "Aún así, no puedo deshacerme de la ansiedad provocada por todo lo ocurrido."
+    "Comunque, non posso liberarmi di tutta questa ansia per ciò che é succeso"
 
 # game/game_script.rpy:207
 translate it game_script_cef3b8a5:
 
     # "I just want her to be okay..."
     "Lo único que quiero es que esté bien..."
-    "l'ho unico che voglio e che stia bene..."
+    "Voglio e che tu stia bene..."
 
 # game/game_script.rpy:209
 translate it game_script_b601bb12:
 
     # mc "Okay, we should leave now."
-    mc "Vale, pues deberíamos irnos ya."
+    mc "Va bene, dobbiamo andare via"
 
 # game/game_script.rpy:210
 translate it game_script_eceb1560:
 
     # mc "We can take the bus."
-    mc "Podemos ir en autobús."
+    mc "Prendiamo il pullman."
 
 # game/game_script.rpy:213
 translate it game_script_7a206056:
 
     # s "W-well..."
-    s "Vale, p-pero,"
+    s "O-ok, p-però."
 
 # game/game_script.rpy:214
 translate it game_script_48db5161:
 
     # s "I-I need to get changed first."
-    s "n-necesito cambiarme primero."
+    s "D-devo cambiarme prima 
 
 # game/game_script.rpy:216
 translate it game_script_db0f1615:
 
     # mc "O-oh!"
-    mc "¡A-Ah!"
+    mc "O-oh!"
 
 # game/game_script.rpy:217
 translate it game_script_42d3094e:
 
     # mc "Of course..."
-    mc "Claro, perdona..."
+    mc "Certo, scusa..."
 
 # game/game_script.rpy:219
 translate it game_script_3fbb9852:
 
     # "I nod, and take a step outside the door, reaching down to pick up the rope first, taking it with me."
-    "Asiento, retrocedo y me agacho para coger la cuerda."
+    "Annuisco e faccio un paso fuori dalla porta, mi chino a prendere la corda, portandola con me"
 
 # game/game_script.rpy:220
 translate it game_script_c199bc28:
 
     # "{i}Just in case{/i}."
-    "Por si acaso."
+    "{i}Per sicurezza{/i}."
 
 # game/game_script.rpy:222
 translate it game_script_e12d3b1f:
 
     # "She gently nods, shutting the door in my face."
-    "Parece entenderlo, porque asiente y me cierra la puerta en la cara."
+    "Sembra che capisca, perche mi anuisce e mi chiude la porta in faccia."
 
 # game/game_script.rpy:229
 translate it game_script_b064db71:
 
     # "Again, I'm a little anxious, leaving her alone right after...{w}{i}that{/i}."
-    "Vuelvo a estar nervioso. Acabo de dejarla sola después de... 'eso' que acaba de ocurrir hace escasos minutos."
+    "Di nuovo mi sento un po' ansioso, lasciandola sola subito dopo...'quello'."
 
 # game/game_script.rpy:230
 translate it game_script_64c3c9bf:
 
     # "But she does need her privacy."
-    "Pero necesita su privcidad."
+    "Pero ha bisogno della sua privacy."
 
 # game/game_script.rpy:231
 translate it game_script_cf84f0ed:
 
     # "I kneel down, beginning to clean up the cupcake massacre littering the floor with a towel."
-    "Me agacho para empezar a limpiar, con una toalla, el desastre que he ocasionado con los cupcakes."
+    "Mi inginocchio e inizio a pulire il casino dei cupcake con un asciugamano.."
 
 # game/game_script.rpy:232
 translate it game_script_21408033:
 
     # "Natsuki is going to kill me."
-    "Mierda, Natsuki me va a matar..."
+    "Cazzo, Natsuki mi ammazzerà."
 
 # game/game_script.rpy:233
 translate it game_script_5865ec9e:
