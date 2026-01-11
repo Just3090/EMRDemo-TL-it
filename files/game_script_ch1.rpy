@@ -693,7 +693,7 @@ translate it game_script_7a206056:
 translate it game_script_48db5161:
 
     # s "I-I need to get changed first."
-    s "D-devo cambiarme prima 
+    s "D-devo cambiarme prima"
 
 # game/game_script.rpy:216
 translate it game_script_db0f1615:
