@@ -783,7 +783,6 @@ translate it game_script_e9851d0e:
 translate it game_script_2b018eab:
 
     # "I shut my eyes, and rest my head in my hands."
-    "Cierro los ojos y descanso la cabeza en mis manos."
     "Chiudo gli occhi e apoggio la testa sulle mie mani"
 
 # game/game_script.rpy:239
@@ -797,42 +796,43 @@ translate it game_script_988f75ac:
 
     # "She's {i}probably{/i} ready by now."
     "Puede que ya esté lista."
+    "Magari é giá pronta"
 
 # game/game_script.rpy:244
 translate it game_script_3e6add8e:
 
     # "I knock on Sayori's door, and she opens it immediately."
-    "Voy escaleras arriba y pego en la puerta de la habitación de Sayori, abriéndola de forma inmediata."
+    "Busso alla porta dalla stanza di sayori, e apre subito"
 
 # game/game_script.rpy:250
 translate it game_script_1f56feb7:
 
     # mc "Ready?"
-    mc "¿Estás lista para irnos?"
+    mc "Sei pronta?"
 
 # game/game_script.rpy:251
 translate it game_script_d1c4b4d1:
 
     # "Sayori nods once, her eyes glued to the floor."
-    "Sayori asiente mientras tiene los ojos pegados al suelo."
+    "Sayori annuí con gli occhi fissi a terra"
 
 # game/game_script.rpy:255
 translate it game_script_cdef04d7:
 
     # s "T-this is what's best for me, right?"
-    s "E-Esto es lo mejor para mí, ¿verdad?"
+    s "Q-questo e il megliore per me, vero?"
 
 # game/game_script.rpy:259
 translate it game_script_eb0687e9:
 
     # "Her light blue eyes stare through me, expectant of an answer"
-    "Sus ojos, de color azul claro, atraviesan los míos con la esperanza de obtener una respuesta."
+    "I suoi occhi azzurri fissi su di me, aspettando una mia risposta"
 
 # game/game_script.rpy:260
 translate it game_script_04fe7291:
 
     # "Seeing her like this is so...{w}unsettling."
-    "Ver a Sayori así es...{w} desconcertante."
+    "Vederla così a Sayori è...{w}angosciante."
 
 # game/game_script.rpy:261
 translate it game_script_5be87876:
