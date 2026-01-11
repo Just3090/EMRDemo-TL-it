@@ -426,7 +426,7 @@ translate it game_script_8f12eec9:
 translate it game_script_6a29f8fb:
 
     # s "I can't even think about the only person that cares about me for one second."
-    s " Non riesco nemmeno a pensare per un secondo all'unica persona che si prende cura di me
+    s "Non riesco nemmeno a pensare per un secondo all'unica persona che si prende cura di me"
 
 # game/game_script.rpy:136
 translate it game_script_94fd5938:
