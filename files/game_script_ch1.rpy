@@ -761,25 +761,25 @@ translate it game_script_21408033:
 translate it game_script_5865ec9e:
 
     # "I return downstairs and untie the noose, dropping the loose rope in the trash."
-    "Vuelvo escaleras abajo para deshacer el nudo y tirar la cuerda a la basura."
+    "scendo sotto, sciolgo il nodo e butto la corda nella spazzatura."
 
 # game/game_script.rpy:234
 translate it game_script_d84e4e6b:
 
     # "My hands are shaking the entire time, they're barely able to undo the knot."
-    "No dejan de temblarme las manos, que eran apenas capaces de hacerlo."
+    "Le mie mani tremano continuamente, e riescono appena a sciogliere il nodo."
 
 # game/game_script.rpy:235
 translate it game_script_c44fa2e5:
 
     # "How did she learn to do that..?"
-    "¿Cuándo aprendió a hacer estos nudos...?"
+    "Da quando ha imparato a fare questi nodi...?"
 
 # game/game_script.rpy:236
 translate it game_script_11892a07:
 
     # "I linger downstairs for a minute, trying to relax before heading back upstairs."
-    "Trato de relajarme en el piso de abajo antes de volver arriba."
+    "Provo a rilassarmi al piano sotto prima di tornare su."
 
 # game/game_script.rpy:237
 translate it game_script_e9851d0e:
