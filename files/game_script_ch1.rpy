@@ -4,7 +4,7 @@
 translate it game_script_291cd73e:
 
     # "It's the day of the festival."
-    "Il giorno dell festival ha arrivato."
+    "É il giorno del festival."
 
 # game/game_script.rpy:16
 translate it game_script_f55f58cd:
@@ -22,13 +22,13 @@ translate it game_script_5f35e367:
 translate it game_script_f01b5f50:
 
     # "I consider going to her house to wake her up."
-    "Avevo pensato di andare a casa sua a svegliarla, ma forse è troppo."
+    "Sto pensando di andare a casa sua a svegliarla."
 
 # game/game_script.rpy:19
 translate it game_script_bf20ec7b:
 
     # "It's not a big deal to at least wait for her, or help her wake up."
-    "Aspettarla o aiutarla a svegliarsi dall leto non sarebbe un grande sacrifigio."
+    "Non è un gran problema almeno aspettarla o aiutarla a svegliarsi."
 
 # game/game_script.rpy:20
 translate it game_script_e601aa4e:
@@ -52,19 +52,19 @@ translate it game_script_68430306:
 translate it game_script_e35fe926:
 
     # "That's all she needs, and what I want to give her."
-    "È tutto ciò di cui ha bisogno ed è proprio quello che voglio darle."
+    "È tutto ciò di cui ha bisogno, ed è proprio quello che voglio darle."
 
 # game/game_script.rpy:24
 translate it game_script_8a012772:
 
     # "The hell with it. I'll go get her."
-    "Sto cazzo, andro per Sayori."
+    "Al diavolo, andró a prendere Sayori."
 
 # game/game_script.rpy:25
 translate it game_script_6f7f2a01:
 
     # "I grab the cupcakes Natsuki and I made yesterday, and make my way to Sayori's."
-    "Prendo i cupcakes que habiamo fatto io e Natsuki e vado direttamente a casa di Sayori."
+    "Prendo i cupcakes que abbiamo fatto io e Natsuki e mi dirigo a casa di Sayori."
 
 # game/game_script.rpy:29
 translate it game_script_558b962d:
@@ -76,7 +76,7 @@ translate it game_script_558b962d:
 translate it game_script_b8d78e77:
 
     # "I don't expect an answer, since she's not picking up her phone, either."
-    "Non risponde a le mie chiamate, quindi non mi aspetto alquna risposta."
+    "Non risponde alle mie chiamate, quindi non mi aspetto alcuna risposta."
 
 # game/game_script.rpy:31
 translate it game_script_a19898c6:
@@ -167,13 +167,13 @@ translate it game_script_5f524499:
 translate it game_script_92ad08b5:
 
     # "But she really leaves me no choice."
-    "pero non mi lascia altra scelta."
+    "Ma non mi lascia altra scelta."
 
 # game/game_script.rpy:52
 translate it game_script_b0993b5c:
 
     # "I gently open the door."
-    "Abro la porta pianamente."
+    "Abro la porta delicatamente."
 
 # game/game_script.rpy:54
 translate it game_script_4afacb09:
@@ -242,7 +242,7 @@ translate it game_script_88a30d76:
 translate it game_script_f063fb7d:
 
     # s "I'm sorry...{w}I'm sorry."
-    s "Mi dispiace...{w} Mi dispiace."
+    s "Mi dispiace...{w}Mi dispiace."
 
 # game/game_script.rpy:82
 translate it game_script_ed13f6ad:
@@ -266,13 +266,13 @@ translate it game_script_0c6d3861:
 translate it game_script_accadaea:
 
     # "I didn't listen, didn't see the signs."
-    "Non ho ascoltato, non ho visto nessun segnale."
+    "Non ho ascoltato, non ho visto i segnali."
 
 # game/game_script.rpy:89
 translate it game_script_5ba299ee:
 
     # "I...{w}almost lost her. My best friend."
-    "Quasi...{w} la perdo. Quasi perdo a mia migliore amica."
+    "Quasi...{w}l'ho persa. Quasi perdo la mia migliore amica."
 
 
 # game/game_script.rpy:90
@@ -316,7 +316,7 @@ translate it game_script_1f4c19a1:
 translate it game_script_162c8404:
 
     # s "What I...talked to you about."
-    s "Gia lo sai..., quello che ti ho parlato."
+    s "Gia lo sai..., quello di cui ti ho parlato."
 
 
 # game/game_script.rpy:101
@@ -438,7 +438,7 @@ translate it game_script_94fd5938:
 translate it game_script_b72e96d2:
 
     # mc "There are so many people who care about you."
-    mc "Ci sono tante persone che tengono a te."
+    mc "Ci sono tante persone che ti vogliono bene."
 
 # game/game_script.rpy:138
 translate it game_script_fe052d85:
@@ -480,13 +480,13 @@ translate it game_script_2b35b6fe:
 translate it game_script_3a38f78a:
 
     # mc "And I know it wouldn't be."
-    mc "E so bene che non tutto sarà come prima"
+    mc "E so bene che non sarrebe tutto come era prima"
 
 # game/game_script.rpy:147
 translate it game_script_3495352a:
 
     # mc "You told me yourself yesterday."
-    mc "Me lo hai detto tu stessa ieri."
+    mc "Me lo hai detto ieri tu stessa."
     
 
 # game/game_script.rpy:153
@@ -531,13 +531,13 @@ translate it game_script_62930ff7:
 translate it game_script_2ddb555d:
 
     # mc "Sayori, you need to talk to somebody professional about this."
-    mc "Sayori, devi parlare con qualcuno professionale risguardo a questo."
+    mc "Sayori, devi parlare con un professionista risguardo a questo."
 
 # game/game_script.rpy:167
 translate it game_script_39f68306:
 
     # mc "Please...sooner rather than later."
-    mc "Por favore..., prima che poi."
+    mc "Por favore..., prima possibile."
 
 # game/game_script.rpy:173
 translate it game_script_1f3303ab:
@@ -549,7 +549,7 @@ translate it game_script_1f3303ab:
 translate it game_script_b7884adf:
 
     # s "W-we can go another time."
-    s "P-Possiamo andarci altro giorno?."
+    s "P-Possiamo andarci un'altro giorno?"
 
 # game/game_script.rpy:176
 translate it game_script_77348571:
@@ -581,12 +581,6 @@ translate it game_script_763600d7:
     # mc "Sayori...this isn't just something we can just {i}put off{/i}."
     mc "Sayori... Questo non è una cosa che possiamo dimenticare {i}di un giorno all'altro{/i}"
 
-# game/game_script.rpy:181
-translate it game_script_763600d7:
-
-    # mc "Sayori...this isn't just something we can just {i}put off{/i}."
-    mc "Non è una cosa che possiamo dimenticare da un giorno all'altro."
-
 # game/game_script.rpy:183
 translate it game_script_7fa5db4a:
 
@@ -597,7 +591,7 @@ translate it game_script_7fa5db4a:
 translate it game_script_7cf8353a:
 
     # mc "I'm not going to force you...but I really think you should."
-    mc "Non ti costringo, pero... penso davvero che dovresti andare li."
+    mc "Non ti costringeró, pero... penso davvero che dovresti andarci."
 
 # game/game_script.rpy:185
 translate it game_script_811263f7:
@@ -663,20 +657,18 @@ translate it game_script_eca9793e:
 translate it game_script_e4980b51:
 
     # "I let out a deep sigh, while my adrenaline slowly subsides."
-    Lascio uscire un lungo sospiro, mentre l’adrenalina lentamente si dissolve.
+    "Lascio uscire un lungo sospiro, mentre l’adrenalina lentamente si dissolve."
 
 # game/game_script.rpy:206
 translate it game_script_59008570:
 
     # "However, I still can’t shake the anxiety brought on by all that’s transpired."
-    "Aún así, no puedo deshacerme de la ansiedad provocada por todo lo ocurrido."
     "Comunque, non posso liberarmi di tutta questa ansia per ciò che é succeso"
 
 # game/game_script.rpy:207
 translate it game_script_cef3b8a5:
 
     # "I just want her to be okay..."
-    "Lo único que quiero es que esté bien..."
     "Voglio e che tu stia bene..."
 
 # game/game_script.rpy:209
@@ -785,13 +777,14 @@ translate it game_script_11892a07:
 translate it game_script_e9851d0e:
 
     # "Taking a deep breath, I sit down for a minute."
-    "Cogiendo aire, me siento un poco."
+    "Faccio un rispiro e mi sedio giú per un minuto."
 
 # game/game_script.rpy:238
 translate it game_script_2b018eab:
 
     # "I shut my eyes, and rest my head in my hands."
     "Cierro los ojos y descanso la cabeza en mis manos."
+    "Chiudo gli occhi e apoggio la testa sulle mie mani"
 
 # game/game_script.rpy:239
 translate it game_script_516f51cb:
