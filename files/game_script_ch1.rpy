@@ -197,7 +197,7 @@ translate it game_script_2d7cce6a:
 translate it game_script_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    "Sayori é ai piedi del letto, con una lunga corda
+    "Sayori é ai piedi del letto, con una lunga corda"
 
 # game/game_script.rpy:68
 translate it game_script_211cae4d:
