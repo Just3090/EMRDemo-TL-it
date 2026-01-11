@@ -795,7 +795,6 @@ translate it game_script_516f51cb:
 translate it game_script_988f75ac:
 
     # "She's {i}probably{/i} ready by now."
-    "Puede que ya esté lista."
     "Magari é giá pronta"
 
 # game/game_script.rpy:244
@@ -838,7 +837,7 @@ translate it game_script_04fe7291:
 translate it game_script_5be87876:
 
     # "It’s like someone rewired her brain overnight to become this husk of herself."
-    "Es como si alguien trastocase su cerebro y, de la noche a la mañana, lo único que queda es esta cáscara de ella. "
+    "È come se qualcuno avesse alterato la sua mente in una sola notte, riducendola a un guscio di sé stessa."
 
 # game/game_script.rpy:262
 translate it game_script_a20cefa7:
@@ -850,37 +849,40 @@ translate it game_script_a20cefa7:
 translate it game_script_81b6356f:
 
     # "I shouldn't think like that."
-    "No debería estar pensando esto."
+    "Non dobbreí pensarlo cosí"
 
 # game/game_script.rpy:264
 translate it game_script_516104f5:
 
     # "She's my best friend, and always will be."
     "Sayori es mi mejor amiga y es lo que siempre será."
+    "Sayori è la mia migliore amica, e lo sarà sempre"
 
 # game/game_script.rpy:265
 translate it game_script_ef751428:
 
     # "I take a deep breath, and sigh."
     "Cojo aire y suspiro."
+    "Faccio un respiro, e sospiro"
 
 # game/game_script.rpy:267
 translate it game_script_8e9c953b:
 
     # mc "I'll be honest with you...{w}I don't know."
-    mc "Mira, Sayori, seré honesto contigo...:{w} no tengo ni idea."
+    mc "Mira, Sayori, seré honesto contigo...{w} no tengo ni idea."
+    mc "Ascolta, Sayori, sarò sincero con te...{w}non lo so"
 
 # game/game_script.rpy:268
 translate it game_script_64ab6bc6:
 
     # mc "But I know that it's worth a shot."
-    mc "Pero lo que sí sé con franqueza es que vale la pena intentarlo."
+    mc "Pero so che vale la pena fare il sforzo."
 
 # game/game_script.rpy:269
 translate it game_script_6895e3f1:
 
     # mc "Come on, let's get going."
-    mc "Vamos, tenemos que irnos."
+    mc "Dai, dobbiamo andare via."
 
 # game/game_script.rpy:286
 translate it game_script_098ee451:
