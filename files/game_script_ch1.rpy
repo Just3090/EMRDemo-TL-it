@@ -888,25 +888,26 @@ translate it game_script_6895e3f1:
 translate it game_script_098ee451:
 
     # "I take a seat in an empty, but brightly lit waiting room."
-    "Me siento en una sala de espera brillante y vacía."
+    "Mi sedo nella seda d'atessa, ma luminosa."
 
 # game/game_script.rpy:287
 translate it game_script_060642b7:
 
     # "My anxiety consumes me as I wait for Sayori to walk out from the doctor’s office."
-    "Me consume la ansiedad mientras espero a que Sayori salga de la consulta del doctor."
+    "Mi consuma l'ansia mentre aspetto che Sayori esca dallo studio medico."
 
 # game/game_script.rpy:288
 translate it game_script_0e2a3da8:
 
     # "I have to lock my hands in place in order to stop them from showing my increasing worry."
-    "He tenido que inmovilizar mis manos para evitar mostrar mi creciente preocupación."
+    "Ho dovuto tenere le mani fermi per non mostrare la mia crescente preoccupazione."
 
 # game/game_script.rpy:289
 translate it game_script_11741ed6:
 
     # "I subconsciously resort to tapping my foot on the floor and looking elsewhere in the waiting room."
     "De forma inconsciente, muevo los pies en el suelo y miro a todos lados en la sala de espera."
+    "In modo senza rendermene conto muovo i piedi"
 
 # game/game_script.rpy:290
 translate it game_script_ac25c0b0:
