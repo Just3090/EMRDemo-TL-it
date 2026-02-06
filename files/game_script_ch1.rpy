@@ -10,7 +10,7 @@ translate it game_script_291cd73e:
 translate it game_script_f55f58cd:
 
     # "Of all days, I expected this to be the one where I'd be walking to school with Sayori."
-    "Aspettavo di andare a classe con Sayori in un giorno fisso."
+    "Aspettavo di andare a scuola con Sayori in un giorno fisso."
 
 # game/game_script.rpy:17
 translate it game_script_5f35e367:
