@@ -500,7 +500,7 @@ translate it game_script_8994a7f3:
 translate it game_script_d5057a04:
 
     # mc "Something...{w}happened with Sayori."
-    mc "Halgo ha...{w} pasado con Sayori."
+    mc "Ha pasado algo...{w} con Sayori."
 
 # game/game_script.rpy:766
 translate it game_script_af0be58c:
@@ -1178,7 +1178,7 @@ translate it game_script_72fbdc70:
 translate it game_script_bd492e3d:
 
     # n "Can’t wait to get chewed out by Monika..."
-    n "estoy súper ansiosa de que Monika me eche la bronca."
+    n "me mueeero de ganas de que Monika me eche la bronca..."
 
 # game/game_script.rpy:1000
 translate it game_script_b91d60fb:
@@ -1736,7 +1736,7 @@ translate it game_script_36fc4a9d:
 translate it game_script_1557d4e9:
 
     # "As I come up to the final bend, I hear Monika conversing with someone."
-    "A medida que subo las escaleras, escucho a Monika haablar con alguien."
+    "A medida que subo las escaleras, escucho a Monika hablar con alguien."
 
 # game/game_script.rpy:1177
 translate it game_script_2a27aa9a:
@@ -1940,7 +1940,7 @@ translate it game_script_d9bd2d64:
 translate it game_script_1138e799:
 
     # mc "{i}I can hardly contain my excitement.{/i}"
-    mc "'Me siento incapaz de ocultar mi pasión por tal afirmación. Siento mi corazón desbordarse de mi pecho."
+    mc "Me siento incapaz de ocultar mi pasión por tal afirmación. Siento mi corazón desbordarse de mi pecho."
 
 # game/game_script.rpy:1236
 translate it game_script_39804dee:

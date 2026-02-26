@@ -770,7 +770,7 @@ translate it game_script_80b6ae8c:
 translate it game_script_4e1884a9:
 
     # s "O-Oh, [player]!"
-    s "¡A-ay, [player]!"
+    s "¡A-Ay, [player]!"
 
 # game/game_script.rpy:2352
 translate it game_script_d21a4d26:
@@ -1010,7 +1010,7 @@ translate it game_script_e612037c:
 translate it game_script_c89156ed:
 
     # "She stops mid-sentence and blinks."
-    "Se para ella misma mientras parpadea."
+    "Se detiene a mitad de la frase y parpadea."
 
 # game/game_script.rpy:2464
 translate it game_script_8e62db32:
@@ -1160,13 +1160,13 @@ translate it game_script_7071e483:
 translate it game_script_d4487a84:
 
     # "As Sayori passes me, I feel her hand brush against mine."
-    "Cuando Sayori pasa al lado mía, siento que su mano roza la mía."
+    "Cuando Sayori pasa por mi lado, siento que su mano roza la mía."
 
 # game/game_script.rpy:2533
 translate it game_script_fa62530c:
 
     # "A silent {i}thank you{/i}."
-    "Puede que sea su forma de decirme 'gracias' de forma silenciosa..."
+    "Puede que sea su forma de decirme 'gracias' silenciosamente..."
 
 # game/game_script.rpy:2534
 translate it game_script_1e1ad925:
@@ -1178,7 +1178,7 @@ translate it game_script_1e1ad925:
 translate it game_script_59cc70d4:
 
     # "Yuri walks back to her desk and sighs, opening her book again."
-    "Yuri vuelve a su escritorio, suspirando, mientras vuelve a abrir el libro que estaba leyendo."
+    "Yuri vuelve a su escritorio, suspirando, mientras abre el libro que estaba leyendo."
 
 # game/game_script.rpy:2538
 translate it game_script_2b144597:
@@ -1472,7 +1472,7 @@ translate it game_script_7e97ab4f:
 translate it game_script_b5cdd9b2:
 
     # "But I shake the feeling off, as Natsuki swipes the manga out of my hands, and replaces it in its box."
-    "Pero vuelvo a la realidad cuando Natauki me arrebata el tomo de las manos y lo deja en la colección de nuevo."
+    "Pero vuelvo a la realidad cuando Natsuki me arrebata el tomo de las manos y lo deja en la colección de nuevo."
 
 # game/game_script.rpy:2644
 translate it game_script_9f30234c:
@@ -1490,7 +1490,7 @@ translate it game_script_d0d2c064:
 translate it game_script_029de26b:
 
     # "Approaching Natsuki, I see she’s trying to stuff her Parfait Girls collection in her bag."
-    "Acercándome a Natsuki, parece que intenta meter toda su colección de Parfait Girls en su bolsa."
+    "Acercándome a Natsuki, parece que intenta meter toda su colección de Parfait Girls en su bolso."
 
 # game/game_script.rpy:2650
 translate it game_script_036f9b71:
@@ -1526,13 +1526,13 @@ translate it game_script_ab1c4210:
 translate it game_script_c32452f3:
 
     # n "But I needed to s-"
-    n "Pero necesitaba..."
+    n "Pero tendría que..."
 
 # game/game_script.rpy:2662
 translate it game_script_3f18a4eb:
 
     # n "I needed to..."
-    n "Necesitaba..."
+    n "Tendría que..."
 
 # game/game_script.rpy:2664
 translate it game_script_98aaaab2:
@@ -1544,19 +1544,19 @@ translate it game_script_98aaaab2:
 translate it game_script_3f18a4eb_1:
 
     # n "I needed to..."
-    n "Necesitaba..."
+    n "Tendría que..."
 
 # game/game_script.rpy:2668
 translate it game_script_13b512b3:
 
     # n "...leave a few minutes ago."
-    n "irme hace unos minutos."
+    n "haberme ido hace ya unos minutos."
 
 # game/game_script.rpy:2670
 translate it game_script_996d6e17:
 
     # n "You’ll be...{w}over later?"
-    n "¿Vendrás...{w} después?"
+    n "¿Vendrás a mi casa...{w} después?"
 
 # game/game_script.rpy:2672
 translate it game_script_3fe582e5:
@@ -1604,7 +1604,7 @@ translate it game_script_33c94c99:
 translate it game_script_0adf4c2a:
 
     # "I notice Sayori giving a quick goodbye to Monika, before following through the door."
-    "Me percato de Sayori, que se despide de Monika rápidamente, antes de echar un vistazo a la puerta."
+    "Me percato de Sayori, que se despide de Monika rápidamente, antes de irse por la puerta."
 
 # game/game_script.rpy:2690
 translate it game_script_5596d704:
@@ -1808,7 +1808,7 @@ translate it game_script_67ce7fbc:
 translate it game_script_c04f8aa3:
 
     # "I wave to Monika, who seems to be staring at her desk."
-    "Me despido de Monika, la cual parece mirar fíjamente a su escritorio."
+    "Me despido de Monika, la cual parece mirar fijamente a su escritorio."
 
 # game/game_script.rpy:2746
 translate it game_script_eec13dbc:
@@ -1958,7 +1958,7 @@ translate it game_script_94e36cc2:
 translate it game_script_3b147734:
 
     # "Her face then burns bright red, her mouth trying to spit something out but not quite managing to do so."
-    "Su cara cambia a un color rojo chillón mientras que su boca trata de soltar algo pero lucha para no hacerlo."
+    "Su cara cambia a un color rojo chillón mientras que su boca trata de soltar algo... pero lucha al mismo tiempo para no hacerlo."
 
 # game/game_script.rpy:2789
 translate it game_script_5dc0d783:

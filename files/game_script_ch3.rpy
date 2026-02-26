@@ -548,7 +548,7 @@ translate it game_script_aa35c690:
 translate it game_script_bd32268f:
 
     # n "He has for as long as I can remember."
-    n "Y lo ha hecho desde que tengo consciencia propia."
+    n "Y lo ha hecho desde que tengo conciencia propia."
 
 # game/game_script.rpy:1483
 translate it game_script_0ab8ee76:
@@ -632,7 +632,7 @@ translate it game_script_00314fc2:
 translate it game_script_0d0f2bf8:
 
     # "She flinches slightly at first, but then reciprocates, gripping me firmly."
-    "Al principio no quería, pero acaba cediendo y se me agarra con firmeza."
+    "Al principio no quería, pero acaba cediendo y me agarra con firmeza."
 
 # game/game_script.rpy:1560
 translate it game_script_4a7fbabe:
@@ -842,13 +842,13 @@ translate it game_script_ecc93fc8:
 translate it game_script_64567b68:
 
     # n "He would never let me go."
-    n "Suma a eso que no me dejaría irme."
+    n "Mi padre no me dejaría irme."
 
 # game/game_script.rpy:1670
 translate it game_script_848b1c13:
 
     # n "{cps=8}He'll {i}never{i} let me go.{/cps}"
-    n "{cps=8}Es que {i}no{i} me deja irme.{/cps}"
+    n "{cps=8}{i}No{i} me deja irme.{/cps}"
 
 # game/game_script.rpy:1675
 translate it game_script_59637adf:
@@ -986,7 +986,7 @@ translate it game_script_e04f8287:
 translate it game_script_90c622c3:
 
     # n "Is this something you really want to do?"
-    n "¿Es que esta la decisión que realmente quieres tomar?"
+    n "¿Es que es esta la decisión que realmente quieres tomar?"
 
 # game/game_script.rpy:1779
 translate it game_script_b2e8cdcc:
@@ -1340,7 +1340,7 @@ translate it game_script_b6a52fb2:
 translate it game_script_7c9b0e34:
 
     # "Natsuki slowly pulls her phone out of her pocket, and puts a finger in front of her mouth, mimicking a \"shush\"."
-    "Es de Natuki, que contesta al teléfono y hace un gesto con su dedo, poniéndolo en su boca, indicando que quiere que me calle."
+    "Es de Natsuki, que contesta al teléfono y hace un gesto con su dedo, poniéndolo en su boca, indicando que quiere que me calle."
 
 # game/game_script.rpy:1919
 translate it game_script_e0154157:
