@@ -855,21 +855,18 @@ translate it game_script_81b6356f:
 translate it game_script_516104f5:
 
     # "She's my best friend, and always will be."
-    "Sayori es mi mejor amiga y es lo que siempre será."
     "Sayori è la mia migliore amica, e lo sarà sempre"
 
 # game/game_script.rpy:265
 translate it game_script_ef751428:
 
     # "I take a deep breath, and sigh."
-    "Cojo aire y suspiro."
     "Faccio un respiro, e sospiro"
 
 # game/game_script.rpy:267
 translate it game_script_8e9c953b:
 
     # mc "I'll be honest with you...{w}I don't know."
-    mc "Mira, Sayori, seré honesto contigo...{w} no tengo ni idea."
     mc "Ascolta, Sayori, sarò sincero con te...{w}non lo so"
 
 # game/game_script.rpy:268
@@ -906,32 +903,32 @@ translate it game_script_0e2a3da8:
 translate it game_script_11741ed6:
 
     # "I subconsciously resort to tapping my foot on the floor and looking elsewhere in the waiting room."
-    "De forma inconsciente, muevo los pies en el suelo y miro a todos lados en la sala de espera."
     "In modo senza rendermene conto muovo i piedi"
 
 # game/game_script.rpy:290
 translate it game_script_ac25c0b0:
 
     # "It’s the only thing I’m going to be able to do for quite a while."
-    "Es lo único que sé hacer ahora."
+    "É l'unica cosa che posso fare adesso."
+    
 
 # game/game_script.rpy:292
 translate it game_script_6920d10f:
 
     # "Suddenly, my pocket rumbles, as my phone springs to life."
-    "De repente, me vibra el bolsillo y eso quiere decir que mi teléfono da señales de vida."
+    "improvvisamente, mi vibra la tasca e quello vuol dire che é con vita"
 
 # game/game_script.rpy:293
 translate it game_script_d5aeed6b:
 
     # "I quickly pull it out and notice a text from Monika."
-    "Lo saco rápidamente para ver que Monika me ha escrito un mensaje de texto."
+    "Lo prendo velocemente e vedo che monika mi ha messaggiato"
 
 # game/game_script.rpy:294
 translate it game_script_7e081204:
 
     # "Then it hits me...{w}today was the day of the festival."
-    "Lo que me hace acordar...{w} que hoy es el día en que comienza el festival."
+    "E questo mi fa ricordare...{w} che oggi é il giorno dell festival"
 
 # game/game_script.rpy:295
 translate it game_script_beac872d:
