@@ -2,7 +2,7 @@
 translate it game_script_51d7bc2f:
 
     # "And where was Natsuki?"
-    "Pero... ¿y Natsuki?"
+    "Ma... e Natsuki?"
 
 # game/game_script.rpy:613
 translate it game_script_4bbcaf3f:
