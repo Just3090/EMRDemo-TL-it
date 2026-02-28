@@ -940,79 +940,79 @@ translate it game_script_beac872d:
 translate it game_script_da7b12c0:
 
     # m "hey [player_l], where are you??"
-    m "ey, [player_l], dónde estás???"
+    m "Hey, [player_l], dove sei??"
 
 # game/game_script.rpy:300
 translate it game_script_428b976c:
 
     # "I have to reply."
-    "Tengo que responder."
+    "Devo rispondere."
 
 # game/game_script.rpy:302
 translate it game_script_070626b3:
 
     # mc "Sorry got caught up"
-    mc "Perdona, liado estoy."
+    mc "Scusa, sono rimasto intrappolato."
 
 # game/game_script.rpy:303
 translate it game_script_acd509b0:
 
     # mc "I don’t think I’ll be able to make it to the festival"
-    mc "No creo que me dé tiempo a llegar al festival."
+    mc "Non penso che abbro tempo per arrivare il festival"
 
 # game/game_script.rpy:304
 translate it game_script_922bf303:
 
     # m "[player_l], please don’t tell me you’ve got cold feet about the poems or something"
-    m "[player_l], no me digas que te estás echando atrás por los poemas o algo..."
+    m "[player_l], non dirmi che hai cambiato d'idea per i poemi o qualcosa..."
 
 # game/game_script.rpy:305
 translate it game_script_07d0e754:
 
     # mc "It’s an emergency"
-    mc "No, ha sido una emergencia."
+    mc "No, è stata una emergenza"
 
 # game/game_script.rpy:306
 translate it game_script_1c81b025:
 
     # m "oh no, whats going on?"
-    m "ay, no, qué ha pasado???"
+    m "oh no, cos'è succeso???"
 
 # game/game_script.rpy:307
 translate it game_script_f13f1a54:
 
     # mc "I dunno if I can tell you rn"
-    mc "No sé si es buen momento para decirte ahora nada."
+    mc "Nn so se questo è un bell momento per dirti"
 
 # game/game_script.rpy:308
 translate it game_script_304b1f1a:
 
     # m "thats okay"
-    m "no pasa nada"
+    m "fa niente"
 
 # game/game_script.rpy:309
 translate it game_script_8feb0029:
 
     # m "just please see if you can make it, or let me know if you cant"
-    m "pero avísame si puedes venir... o avisa si al final no"
+    m "ma mi raccomando avvisami se puoi venire... o avvisa se non puoi"
 
 # game/game_script.rpy:310
 translate it game_script_f9ecebb2:
 
     # m "and if you know where sayori or natsuki are, can you tell them too?"
-    m "y si sabes dónde están Sayori y Natsuki, puedes decírselo también???"
+    m "e se sai dove sonno Sayori e Natsuki, puoi dirgli anche?"
 
 # game/game_script.rpy:311
 translate it game_script_87ef2cd0:
 
     # mc "OK I will"
-    mc "Claro, eso haré."
+    mc "Certo, lo faro"
 
 # game/game_script.rpy:313
 translate it game_script_7fed3493:
 
     # "I peer through a small flute-glass window on the door."
-    "Echo un vistazo a través de una ventanilla pequeña en la puerta."
+    "Faccio un'occhiata attraverso di una piccola finestra nella porta"
 
 # game/game_script.rpy:314
 translate it game_script_24135849:
